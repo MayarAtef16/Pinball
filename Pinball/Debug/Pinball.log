@@ -1,0 +1,26 @@
+﻿  Interface.cpp
+D:\CIE Year 2\Spring\C++ (2)\Project Pinball\Another Copy\Pinball-VS - Copy\Pinball\Pinball\Interface.cpp(236,29): warning C4018: '<': signed/unsigned mismatch
+D:\CIE Year 2\Spring\C++ (2)\Project Pinball\Another Copy\Pinball-VS - Copy\Pinball\Pinball\Interface.cpp(252,35): warning C4018: '<': signed/unsigned mismatch
+D:\CIE Year 2\Spring\C++ (2)\Project Pinball\Another Copy\Pinball-VS - Copy\Pinball\Pinball\Interface.cpp(318,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\CIE Year 2\Spring\C++ (2)\Project Pinball\Another Copy\Pinball-VS - Copy\Pinball\Pinball\Interface.cpp(318,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\CIE Year 2\Spring\C++ (2)\Project Pinball\Another Copy\Pinball-VS - Copy\Pinball\Pinball\Interface.cpp(329,44): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\CIE Year 2\Spring\C++ (2)\Project Pinball\Another Copy\Pinball-VS - Copy\Pinball\Pinball\Interface.cpp(329,42): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\CIE Year 2\Spring\C++ (2)\Project Pinball\Another Copy\Pinball-VS - Copy\Pinball\Pinball\Interface.cpp(384,42): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\CIE Year 2\Spring\C++ (2)\Project Pinball\Another Copy\Pinball-VS - Copy\Pinball\Pinball\Interface.cpp(390,42): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Pinball.vcxproj -> D:\CIE Year 2\Spring\C++ (2)\Project Pinball\Another Copy\Pinball-VS - Copy\Pinball\Debug\Pinball.exe

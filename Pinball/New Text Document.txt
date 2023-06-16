@@ -1,0 +1,21 @@
+150 20 
+-500 20
+100 60 0 500 0.6 0 0
+17
+wall 700
+wall 1
+ceiling 750
+ceiling 1
+popbumber 30 200 200
+thurstbumber 30 250 250 15
+vibranumbumber 30 150 250 15
+collectables 30 CIE202
+gate 10 90
+switch 10 90
+scorMultiplier 50 500 250
+speedboosters1 25 500 350
+leftkicker 600 550 60
+rightslightshot 100 550 60
+bullseye 40 200 500
+Magnets 50 100 480
+Ramp 10 90
